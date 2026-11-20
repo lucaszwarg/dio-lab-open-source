@@ -88,6 +88,16 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
 | `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
 
+## Extensões úteis para o VSCODE:
+Extensões que recomendo:
+|Extensão	     |Para que serve	                                                  |Prioridade
+|----------------|-------------------------------------------------------------------|----------------
+|`Pylance`       |Autocompletar código, identificar erros e sugerir melhorias	     |Essencial
+|`Python Debugger` |	Executar seu código passo a passo para entender erros	     |Alta
+|`Jupyter`	|Executar código em blocos e testar comandos individualmente	         |Média
+|`Error Lens`	|Mostrar erros diretamente nas linhas do código	                     |Média
+|`GitLens`	|Visualizar histórico e alterações do código	                         |Média
+|`Prettier`	|Organizar e formatar código automaticamente, especialmente Web	         |Opcional
 
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
